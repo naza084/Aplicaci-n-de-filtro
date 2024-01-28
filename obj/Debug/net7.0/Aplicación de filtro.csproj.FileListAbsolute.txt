@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\bin\Debug\net7.0\Aplicación de filtro.exe
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\bin\Debug\net7.0\Aplicación de filtro.deps.json
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\bin\Debug\net7.0\Aplicación de filtro.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\bin\Debug\net7.0\Aplicación de filtro.dll
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\bin\Debug\net7.0\Aplicación de filtro.pdb
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.dll
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\refint\Aplicación de filtro.dll
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.pdb
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\Aplicación de filtro.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\Programacion funcional\Ejercicios\Combinaciones\Aplicación de filtro\Aplicación de filtro\obj\Debug\net7.0\ref\Aplicación de filtro.dll
